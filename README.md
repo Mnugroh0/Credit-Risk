@@ -6,8 +6,8 @@ In developing the machine learning model for this project, I took two approach: 
 ## **Result**
 1. AUC Score - 0.77. 
 2. Kolmogorov-Smirnov Curve - 0.3851. <br>
-Both result indicates a good performance in credit risk modelling, usually AUC score 0.7 and KS-curve 0.3.
-**Suggestion**
+Both result indicates a good performance in credit risk modelling, usually AUC score 0.7 and KS-curve 0.3. <br>
+## **Suggestion**
 There's still room for improvement model score.
 
 
